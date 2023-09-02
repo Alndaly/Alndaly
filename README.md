@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alndaly
-- 👀 I’m interested in **Computer Science** and **Sports** and **Photography**
-- 🌱 I’m currently learning Artificial Intelligence and Front End, besides Django.
+- 👋 Hi, I’m Kinda Hall.
+- 👀 I’m interested in **Computer Science** and **Sports** and **Photography**.
+- 🌱 I’m currently learning Artificial Intelligence and Front End, besides some backend projects.
 - 💞️ I’m looking to collaborate on that benefits to univertisities' students.
 - 📫 You can contact my by email *1142704468@qq.com*
 
